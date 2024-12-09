@@ -7,7 +7,6 @@
 3、deactivate	# 停止虚拟环境
 4、python <项目文件名> runserver	# 启动运行
 5、python <项目文件名> startapp <新的应用程序名称>	# 新建一个APP
-6、
 
 
 本项目( manage.py )的虚拟环境名称为：ll_env
